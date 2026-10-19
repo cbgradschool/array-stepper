@@ -1,0 +1,9 @@
+{
+  "maxSource": 50000,
+  "maxSteps": 10000,
+  "maxSeconds": 5,
+  "maxBytes": 20971520,
+  "maxArray": 1000,
+  "maxDepth": 64,
+  "maxVariables": 100
+}
